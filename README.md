@@ -1,5 +1,3 @@
-# jetson-interactive-sensor-system
-
 # Jetson Nano Interactive Sensor-Based System 
 
 This project was developed as part of the **EEE 313 - Introduction to Embedded Systems** final exam application. It demonstrates an interactive sensor-based system utilizing the **NVIDIA Jetson Nano Developer Kit**, integrating motion sensing, LCD display, servo motor control, and visual/audio feedback.
